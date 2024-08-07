@@ -1,0 +1,43 @@
+{
+  "name": "TRUMP KEMISTRY #2120",
+  "description": "CW404 Token: Folks, this is based on the Osmosis Blockchain, the fantastic $TRUMP. Once you have a whole token, an NFT magically appears in your wallet. You can check it out on the “TRUMP DAPP”. But if you sell and drop below 1 $TRUMP, the NFT gets automatically burned. It is a game-changer.",
+  "image": "/nft/2120.png",
+  "dna": "7af61d7e590224dce609518dbabebfd07f9c82f6",
+  "edition": 2120,
+  "date": 1723044494131,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "LightGreyBg"
+    },
+    {
+      "trait_type": "Face",
+      "value": "PinkLongFace"
+    },
+    {
+      "trait_type": "Body",
+      "value": "YellowPensShirt"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "MediumLightBrownHair"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BasicMouth"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "ButtonRightNose"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "RoundDeepBlueEyes"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Twirl"
+    }
+  ],
+  "compiler": "TRUMP KEMISTRY"
+}
